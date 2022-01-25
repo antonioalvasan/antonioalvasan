@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @antonioalvasan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I’m Antonio</h1>
+<h3 align = "center"> A passionate student and developer from Spain </h3>
 
-<!---
-antonioalvasan/antonioalvasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonioalvasan&layout=compact"/></p>
